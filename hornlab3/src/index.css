@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  text-align: center;
+}
+body{
+  background-image:url(https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149001650.jpg?w=996&t=st=1660521245~exp=1660521845~hmac=63c9c64f4578e0fa39f5993f9a19ea4add595296da634dd3d4c06ac175319dee);
+}
+
+.card-container{
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px 40px;
+  justify-content: center;
+  padding-bottom: 20px;
+}
